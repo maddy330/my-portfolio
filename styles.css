@@ -2688,22 +2688,3 @@ section:nth-child(odd) {
     background: #fff;
   }
 }
-/* Profile Image Styles */
-.profile-avatar {
-    width: 200px;         
-    height: 200px;
-    border-radius: 50%;   
-    overflow: hidden;     
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 4px solid #ffffff; 
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
-}
-
-.profile-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;    
-    object-position: center; 
-}
